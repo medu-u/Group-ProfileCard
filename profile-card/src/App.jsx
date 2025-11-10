@@ -14,6 +14,8 @@ function App() {
             age={profile.age}
             occupation={profile.occupation}
             image={profile.image}
+            address={profile.address}
+            
           />
         ))}
       </div>

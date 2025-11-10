@@ -14,12 +14,19 @@ const profiles = [
     age: 42,
     occupation: "devOps",
     image: parentChild1,
+    address:"Harar" 
   },
   {
     name: "Fayisa",
     age: 37,
     occupation: "QA/Tester",
     image: reactImage,
+  },
+  {
+    name: "Mekbib",
+    age: 34,
+    occupation: "Backend Developer",
+    image: parentChild,
   },
 ];
 
