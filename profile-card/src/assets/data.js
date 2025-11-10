@@ -4,19 +4,19 @@ import parentChild1 from '../assets/images/images.jpeg';
 
 const profiles = [
   {
-    name: "hile",
+    name: "Hellen",
     age: 35,
     occupation: "MERN developer",
     image: parentChild,
   },
   {
-    name: "chaltu",
+    name: "Chaltu",
     age: 42,
     occupation: "devOps",
     image: parentChild1,
   },
   {
-    name: "hagose",
+    name: "Fayisa",
     age: 37,
     occupation: "QA/Tester",
     image: reactImage,
